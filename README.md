@@ -12,14 +12,18 @@ Pour cela, vous utiliserez Ghidra
 
 ## Consignes 
 
-### 1
+### 1 : Télécharger Ghidra
 [Télécharger Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
+
 Ghidra nécessite l'installation au préalable de [Java Development Kit](https://www.oracle.com/java/technologies/downloads/#jdk22-windows)
 
-### 2
-[Télécharger le jeu nécessaire à l'exercice](https://drive.google.com/drive/folders/1lJRqEgRI_RapDsxaIV3l5ztNp-FzMzfc?usp=sharing)
-**Nom :** TP_Pharaon.exe (_archive autoextractible_)
+
+### 2 Télécharger le jeu Pharaon
+
+**Nom :** [TP_Pharaon.exe](https://drive.google.com/drive/folders/1lJRqEgRI_RapDsxaIV3l5ztNp-FzMzfc?usp=sharing) (_archive autoextractible_ hébergée sur Google Drive)
+
 **Taille :** 585 Mo
+
 Signatures : MD5(_db363c0e52f20ca5166d10b26a22ead7_) / SHA1(_60943d04396270a2e8d6650e30e8740822cdd24f_)
 
 
