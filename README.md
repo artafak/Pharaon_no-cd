@@ -23,14 +23,18 @@ Ghidra nécessite l'installation au préalable de [Java Development Kit](https:/
 **Taille :** 585 Mo<br/>
 Signatures : MD5(_db363c0e52f20ca5166d10b26a22ead7_) / SHA1(_60943d04396270a2e8d6650e30e8740822cdd24f_)<br/>
 
+### 3 Installez le jeu <br/>
+Pendant l'installation, prenez soin de choisir une **installation complète**<br/>
+![image](https://github.com/artafak/Pharaon_no-cd/assets/38442391/6d33aa23-5609-4809-a77c-95a1d9fdb5ee) <br/>
 
-Empéchez l'affichage de cette erreur :<br/>
+
+Votre objectif est de pouvoir jouer à Pharaon, et d'empêcher l'affichage de cette erreur :<br/>
 ![image](https://github.com/artafak/TP-Reverse/assets/38442391/fc1e4083-2f47-4476-a18e-4d87e28da6ee)<br/>
 
 
 
 ## Informations
-Pharaon (Pharaoh) est un jeu orienté gestion/simulation/stratégie un abandonware développé par l'éditeur SIERRA et sorti en Novembre 1999<br/>
+Pharaon (Pharaoh) est un jeu orienté gestion/simulation/stratégie développé par SIERRA et sorti en Novembre 1999<br/>
 Plus d'infos sur [abandonware-france.org](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1827&fic=liens) <br/>
 
 
