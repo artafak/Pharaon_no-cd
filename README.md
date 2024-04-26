@@ -14,20 +14,17 @@ Pour cela, vous utiliserez Ghidra
 
 ### 1 : Télécharger Ghidra
 [Télécharger Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
-
 Ghidra nécessite l'installation au préalable de [Java Development Kit](https://www.oracle.com/java/technologies/downloads/#jdk22-windows)
 
 
 ### 2 Télécharger le jeu Pharaon
 
 **Nom :** [TP_Pharaon.exe](https://drive.google.com/drive/folders/1lJRqEgRI_RapDsxaIV3l5ztNp-FzMzfc?usp=sharing) (_archive autoextractible_ hébergée sur Google Drive)
-
 **Taille :** 585 Mo
-
 Signatures : MD5(_db363c0e52f20ca5166d10b26a22ead7_) / SHA1(_60943d04396270a2e8d6650e30e8740822cdd24f_)
 
 
-
+Empéchez l'affichage de cette erreur :
 ![image](https://github.com/artafak/TP-Reverse/assets/38442391/fc1e4083-2f47-4476-a18e-4d87e28da6ee)
 
 
