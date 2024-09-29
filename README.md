@@ -2,7 +2,7 @@
 
 ## Objectif  : **réaliser le crack NO-CD d’un jeu**
 
-Vous devez analyser le fichier exécutable du jeu « _Pharaon_ » afin de contourner le système qui vérifie la présence de son cd-rom original.
+Vous devez analyser le fichier exécutable du jeu **Pharaon** et éditer son code afin de contourner la vérification de la présence du cd-rom du jeu.  
 
 Pour cela, vous utiliserez Ghidra
 
@@ -34,12 +34,19 @@ Votre objectif est de pouvoir jouer à Pharaon, et d'empêcher l'affichage de ce
 
 
 ## Informations
-Pharaon (Pharaoh) est un jeu orienté gestion/simulation/stratégie développé par SIERRA et sorti en Novembre 1999<br/>
-Plus d'infos sur [abandonware-france.org](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1827&fic=liens) <br/>
+Pharaon (_Pharaoh_) est un jeu orienté gestion/simulation/stratégie édité par SIERRA et sorti en Novembre 1999<br/>
 
+Ce jeu a été choisi comme sujet d'exercice car il s'agit d'un Abandonware, dont la distribution et la vente ont été stoppées (il est disponible gratuitement sur Internet).    Plus d'infos sur [abandonware-france.org](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1827&fic=liens) <br/>
 
+Le jeu n'est pas équipé d'un système de vérification du cd-rom _original_, seulement de la présence du cd-rom du jeu.
+Il ne s'agit donc pas de contourner une technologie spécifique à la lutte contre la copie illégale de jeux vidéos.     
+
+     
 
 
 ![image](https://github.com/artafak/TP-Reverse/assets/38442391/38eb2c52-0ca1-40dd-8ee8-582172b8550f)
- ![image](https://github.com/artafak/TP-Reverse/assets/38442391/29d382c1-03bb-479f-b6b5-4ac9690d9e46) ![image](https://github.com/artafak/TP-Reverse/assets/38442391/c401cb24-d7e8-41e2-9adc-00eef418124f) [_](https://drive.google.com/drive/u/1/folders/1CdQc7cjSkXrS4f1OvvwN74JyUVe3iskb)
+ ![image](https://github.com/artafak/TP-Reverse/assets/38442391/29d382c1-03bb-479f-b6b5-4ac9690d9e46) ![image](https://github.com/artafak/TP-Reverse/assets/38442391/c401cb24-d7e8-41e2-9adc-00eef418124f) 
+
+ 
+ Cet exercice s'inscrit dans un cadre strictement pédagogique, n'incitant en aucune manière la modification, le partage ou la copie de programmes protégés par des droits d'auteur[.](https://drive.google.com/drive/u/1/folders/1CdQc7cjSkXrS4f1OvvwN74JyUVe3iskb)
 
